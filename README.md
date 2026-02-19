@@ -12,7 +12,7 @@ Manual disease detection can be time-consuming and inaccurate. Early detection i
 
 ---
 
-## 🚀 Objective
+## 🚀 Objective 
 - Build an image classification model using Transfer Learning.
 - Detect disease categories from uploaded images.
 - Deploy the model through a simple web interface.
