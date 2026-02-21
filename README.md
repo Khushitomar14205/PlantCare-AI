@@ -66,9 +66,17 @@ disease-detection/
 ---
 
 ## 📊 Dataset
-Dataset consists of labeled disease images used for training and validation.
+The New Plant Diseases Dataset (Kaggle) is a comprehensive collection designed for plant pathology research and image-based disease classification.
 
-(Example: PlantVillage Dataset)
+● Total Images: 87,000+ augmented RGB images
+
+● Image Format: JPEG
+
+● Number of Classes: 38 (including healthy and diseased categories)
+
+● Plant Types: Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato
+
+● Image Size: 256×256 pixels (resized to 224×224 for MobileNetV2)
 
 ---
 
