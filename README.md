@@ -92,3 +92,9 @@ This project is for educational purposes.
 3. MobileNetV2 model prediction
 4. Disease classification output
 5. Display result with recommendations
+
+---
+
+## 📊 Workflow Diagram
+
+![Workflow](docs/workflow.png)
