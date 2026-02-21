@@ -97,4 +97,4 @@ This project is for educational purposes.
 
 ## 📊 Workflow Diagram
 
-![Workflow](docs./workflow.png)
+![Workflow](docs./Workflow.png)
