@@ -82,3 +82,13 @@ Dataset consists of labeled disease images used for training and validation.
 
 ## 📜 License
 This project is for educational purposes.
+
+---
+
+## 🔄 Project Workflow
+
+1. User uploads plant leaf image
+2. Image preprocessing (resize, normalize)
+3. MobileNetV2 model prediction
+4. Disease classification output
+5. Display result with recommendations
