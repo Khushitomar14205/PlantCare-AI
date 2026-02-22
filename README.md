@@ -80,16 +80,20 @@ The New Plant Diseases Dataset (Kaggle) is a comprehensive collection designed f
 
 ---
 
+## Dataset Instructions
+
+1. Download dataset from: [Dataset Link]
+2. Place it inside:
+   data/raw/
+3. Run dataset_preprocessing.ipynb
+
+---
+
 ## 📌 Future Enhancements
 - Add real-time camera detection
 - Improve model accuracy
 - Add chatbot assistance
 - Deploy on cloud platform
-
----
-
-## 📜 License
-This project is for educational purposes.
 
 ---
 
@@ -106,3 +110,8 @@ This project is for educational purposes.
 ## 📊 Workflow Diagram
 
 ![Workflow](docs./Workflow.png)
+
+---
+
+## 📜 License
+This project is for educational purposes.
