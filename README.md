@@ -1,7 +1,7 @@
-# 🌿 AI-Based Disease Detection System
+# 🌿 PlantCare AI: Advanced Plant Disease Detection Using Transfer Learning
 
 ## 📌 Project Overview
-The AI-Based Disease Detection System is a deep learning project that detects diseases from images using Transfer Learning. The system takes an image as input, processes it, and predicts the disease category using a trained Convolutional Neural Network (CNN) model.
+The AI-Based Plant Disease Detection System is a deep learning project that detects diseases from images using Transfer Learning. The system takes an image as input, processes it, and predicts the disease category using a trained Convolutional Neural Network (CNN) model.
 
 This project aims to help users detect diseases quickly and accurately using artificial intelligence.
 
