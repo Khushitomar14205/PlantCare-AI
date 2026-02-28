@@ -109,7 +109,7 @@ The New Plant Diseases Dataset (Kaggle) is a comprehensive collection designed f
 
 ## 📊 Workflow Diagram
 
-![Workflow](docs./Workflow.png)
+![Workflow](docs./workflow.png)
 
 ---
 
