@@ -46,6 +46,7 @@ Workflow:
 ## 📂 Project Structure
 disease-detection/
 │
+├──Documentation
 ├── data/
 │ ├── raw/
 │ ├── processed/
