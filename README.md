@@ -7,6 +7,10 @@ This project aims to help users detect diseases quickly and accurately using art
 
 ---
 
+Project demo link: https://drive.google.com/file/d/1RqBi8NPVg3yzhs2dpkgBcZCrDe6gD7Jv/view?usp=sharing
+
+---
+
 ## 🎯 Problem Statement
 Manual disease detection can be time-consuming and inaccurate. Early detection is important to prevent serious damage. This system uses AI to automate disease detection from images.
 
